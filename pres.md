@@ -2,7 +2,7 @@
 title:
 - Osint Bot Presentation
 author:
-- Yuriy Galych
+- Yana Anisimova yana.aniina@gmail.com
 theme:
 - Copenhagen
 ---
