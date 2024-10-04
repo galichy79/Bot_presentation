@@ -23,13 +23,42 @@ theme:
 - Analyze employer connections with the aggressor country using OSINT methods
 
 # IT TAKES JUST 3 SIMPLE STEPS TO GET STARTED:
-- Enter company name
-- Enter job title
+
+
+```mermaid
+graph LR
+  Enter[Enter company name] --> Vvod[Enter job title]
+  Vvod --> result[Get the result]
+ 
+```
 - Advanced verification is available when entering password
 
 # MARKET SIZE — UKRAINE, POLAND, ITALY, AZERBAIJAN, GEORGIA. ALL UKRAINIANS IN UKRAINE AND ABROAD AND FRIENDS OF UKRAINE
 
-- There will be a garni of pictures like Natalia Kokorina’s
+The numbers need to be written so that we have 102 million in income by 2027.
+```mermaid
+graph TD
+  Square1[$63,42B
+  total addressable market
+  TAM
+   1.57 billion people in the global
+workforce are freelancers] --> Square2[$110,2B
+serviceable addressable
+market
+SAM
+170 million users]
+  Square2 --> Square3[$102M
+  obtainable market,
+goal till 2027
+SOM
+1% of main markets]
+```
+
+
+
+
+
+
 
 # HOW DO WE MAKE MONEY
 The bot will be in 2 versions: free and by subscription $5/month
