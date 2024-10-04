@@ -24,16 +24,15 @@ theme:
 
 # IT TAKES JUST 3 SIMPLE STEPS TO GET STARTED:
 
-![Диаграмма](diagram-1.png)
+![Diagram](diagram-1.png)
 
 
 - Advanced verification is available when entering password
 
-# MARKET SIZE — UKRAINE, POLAND, ITALY, AZERBAIJAN, GEORGIA. ALL UKRAINIANS IN UKRAINE AND ABROAD AND FRIENDS OF UKRAINE
+# Makret size urkainians and friend of Ukraine
 
-The numbers need to be written so that we have 102 million in income by 2027.
 
-![Диаграмма](diagram-2.png)
+![Diagram](diagram-2.png)
 
 
 

@@ -41,10 +41,8 @@ graph TD
   Square1[$63,42B
   total addressable market
   TAM
-   1.57 billion people in the global
-workforce are freelancers] --> Square2[$110,2B
-serviceable addressable
-market
+   1.57 billion people in the global workforce are freelancers] --> Square2[$110,2B
+serviceable addressable market
 SAM
 170 million users]
   Square2 --> Square3[$102M
