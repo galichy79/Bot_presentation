@@ -1,3 +1,11 @@
 \babel@toc {english}{}\relax 
 \beamer@sectionintoc {1}{What's the problem? Our people may be working for the enemy without even realizing it}{2}{0}{1}
-\beamer@sectionintoc {2}{AI-based Telegram bot that checks employer using OSINT methods}{3}{0}{2}
+\beamer@sectionintoc {2}{Our answer is Osint Bot}{3}{0}{2}
+\beamer@sectionintoc {3}{It takes just 3 simple steps to get started:}{4}{0}{3}
+\beamer@sectionintoc {4}{Market size: Ukrainian and Friends of Ukraine}{5}{0}{4}
+\beamer@sectionintoc {5}{How do we make money}{6}{0}{5}
+\beamer@sectionintoc {6}{Competition}{7}{0}{6}
+\beamer@sectionintoc {7}{Go to market strategy}{8}{0}{7}
+\beamer@sectionintoc {8}{Our team}{9}{0}{8}
+\beamer@sectionintoc {9}{Money raising}{10}{0}{9}
+\beamer@sectionintoc {10}{OSINT bot invites investors to join us for peace in Ukraine and Europe}{11}{0}{10}
