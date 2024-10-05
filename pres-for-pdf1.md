@@ -34,18 +34,6 @@ theme:
 
 ![Diagram](diagram-2.png)
 
-<div style="display: flex; flex-direction: column;">
-  <div style="width: 300px; height: 150px; background-color: lightblue; margin-bottom: 10px; padding: 10px;">
-    <p>$63,42B<br>Total Addressable Market<br>TAM<br>1.57 billion freelancers</p>
-  </div>
-  <div style="width: 300px; height: 150px; background-color: lightgreen; margin-bottom: 10px; padding: 10px;">
-    <p>$110,2B<br>Serviceable Addressable Market<br>SAM<br>170 million users</p>
-  </div>
-  <div style="width: 300px; height: 150px; background-color: lightcoral; padding: 10px;">
-    <p>$102M<br>Obtainable Market<br>Goal till 2027<br>SOM<br>1% of main markets</p>
-  </div>
-</div>
-
 
 # How do we make money? 6
 The bot will be in 2 versions: free and by subscription $5/month
