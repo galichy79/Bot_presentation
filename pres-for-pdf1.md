@@ -20,7 +20,10 @@ theme:
 
 - How can I quickly check an employer?
 
-# AI-based Telegram bot that checks employer using OSINT methods 3
+
+# Our answer is Osint Bot 3
+
+## AI-based Telegram bot that checks employer using OSINT methods 
 
 ![Diagram](diagram-1.png)
 - Find job postings of your employer on .ru and .by websites
