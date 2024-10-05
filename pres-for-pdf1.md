@@ -11,12 +11,14 @@ theme:
 
 # What's the problem? Our people may be working for the enemy without even realizing it 2
 
+## Questions that arise when applying for a job
 - Is the company I am going to work for connected to the aggressor country?
 - Is it a reliable company?
-- Is it worth getting involved with?
+- Is it worth getting involved?
 - Will I have problems because I work or worked for this company?
 - Etc.
 
+- How can I quickly check an employer?
 
 # AI-based Telegram bot that checks employer using OSINT methods 3
 
