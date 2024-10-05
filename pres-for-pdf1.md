@@ -33,7 +33,7 @@ theme:
 
 ![Diagram](diagram-2.png)
 
- ### Advanced verification is available when entering password
+ # Advanced verification is available when entering password
 
 # Makret size urkainians and friends of Ukraine 5
 
