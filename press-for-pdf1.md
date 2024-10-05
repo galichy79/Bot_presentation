@@ -25,33 +25,14 @@ theme:
 
 # It takes just 3 simple steps to get started: 4
 
+![Diagram](diagram-1.png)
 
-```mermaid
-graph LR
-  Enter[Enter company name] --> Vvod[Enter job title]
-  Vvod --> result[Get the result]
- 
-```
-- Advanced verification is available when entering password
+ ### Advanced verification is available when entering password
 
 # Makret size urkainians and friend of Ukraine 5
 
 
-```mermaid
-graph TD
-  Square1[$63,42B
-  total addressable market 
-    TAM
-   1.57 billion people in the global workforce are freelancers] --> Square2[$110,2B
-serviceable addressable market
-SAM
-170 million users]
-  Square2 --> Square3[$102M
-  obtainable market,
-goal till 2027
-SOM
-1% of main markets]
-```
+![Diagram](diagram-2.png)
 
 <div style="display: flex; flex-direction: column;">
   <div style="width: 300px; height: 150px; background-color: lightblue; margin-bottom: 10px; padding: 10px;">
@@ -64,12 +45,6 @@ SOM
     <p>$102M<br>Obtainable Market<br>Goal till 2027<br>SOM<br>1% of main markets</p>
   </div>
 </div>
-
-
-
-
-
-
 
 
 # How do we make money? 6

@@ -2,7 +2,7 @@
 title:
 - Osint Bot Presentation
 author:
-- Yana Anisimova 
+- SEO | Yana Anisimova 
 theme:
 - Copenhagen
 ---
