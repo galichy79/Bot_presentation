@@ -51,7 +51,7 @@ graph LR
  Square[$63,42B
   total addressable market 
     TAM
-   1.57 billion people in the global workforce are freelancers] --> Square2[$110,2B
+   1.57 billion people in the global workforce are freelancers] --> Square2[$10,2B
 serviceable addressable market
 SAM
 170 million users] --> som[$102M

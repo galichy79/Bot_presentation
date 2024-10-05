@@ -25,6 +25,8 @@ theme:
 
 ## AI-based Telegram bot that checks employer using OSINT methods 
 
+
+
 ![Diagram](diagram-1.png)
 - Find job postings of your employer on .ru and .by websites
 - Analyze employer connections with the aggressor country using OSINT methods
