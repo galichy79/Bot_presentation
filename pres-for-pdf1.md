@@ -31,9 +31,11 @@ theme:
 
 # It takes just 3 simple steps to get started: 4
 
+## Enter company, enter job title. Get results.
+
 ![Diagram](diagram-2.png)
 
- # Advanced verification is available when entering password
+
 
 # Makret size urkainians and friends of Ukraine 5
 
