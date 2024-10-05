@@ -20,6 +20,17 @@ theme:
 
 # AI-based Telegram bot that checks employer using OSINT methods 3
 
+<p style="color: green; font-size: 30pt; text-align: center ">Green text</p>
+
+```mermaid
+flowchart LR
+
+A[Hard] -->|Text| B(Round)
+B --> C{Decision}
+C -->|One| D[Result 1]
+C -->|Two| E[Result 2]
+```
+
 - Find job postings of your employer on .ru and .by websites
 - Analyze employer connections with the aggressor country using OSINT methods
 
