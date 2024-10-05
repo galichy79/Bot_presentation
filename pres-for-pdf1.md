@@ -9,7 +9,7 @@ theme:
 
 
 
-# Our people may be working for the enemy without even realizing it 2
+# What's the problem? Our people may be working for the enemy without even realizing it 2
 
 - Is the company I am going to work for connected to the aggressor country?
 - Is it a reliable company?
@@ -30,7 +30,7 @@ theme:
 
  ### Advanced verification is available when entering password
 
-# Makret size urkainians and friend of Ukraine 5
+# Makret size urkainians and friends of Ukraine 5
 
 
 ![Where will the money come from?](diagram-3.png)

@@ -2,14 +2,13 @@
 title:
 - Osint Bot Presentation
 author:
-- CEO | Yana Anisimova 
-theme:
+- CEO | Yuriy Galych
 - Copenhagen
 ---
 
 
 
-# Our people may be working for the enemy without even realizing it 2
+# What's the problem? Our people may be working for the enemy without even realizing it 2
 
 - Is the company I am going to work for connected to the aggressor country?
 - Is it a reliable company?
@@ -85,4 +84,15 @@ To lick off the sample
 # OSINT bot invites investors to join us for peace in Ukraine and Europe 11
 
 Cut from the sample. Rework for yourself
+
+<script type="text/javascript">
+  mermaid.initialize({startOnLoad:true});
+</script>
+<div class="mermaid">
+  graph TD;
+      A-->B;
+      A-->C;
+      B-->D;
+      C-->D;
+</div>
 
