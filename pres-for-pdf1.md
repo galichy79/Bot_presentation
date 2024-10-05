@@ -20,19 +20,20 @@ theme:
 
 # AI-based Telegram bot that checks employer using OSINT methods 3
 
+![Diagram](diagram-1.png)
 - Find job postings of your employer on .ru and .by websites
 - Analyze employer connections with the aggressor country using OSINT methods
 
 # It takes just 3 simple steps to get started: 4
 
-![Diagram](diagram-1.png)
+![Diagram](diagram-2.png)
 
  ### Advanced verification is available when entering password
 
 # Makret size urkainians and friend of Ukraine 5
 
 
-![Diagram](diagram-2.png)
+![Where will the money come from?](diagram-3.png)
 
 
 # How do we make money? 6
