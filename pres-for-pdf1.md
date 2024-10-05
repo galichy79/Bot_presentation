@@ -5,8 +5,6 @@ author:
 - CEO | Yana Anisimova 
 theme:
 - Copenhagen
-header-includes:
-    - \setbeamertemplate{footline}[frame number]
 ---
 
 
