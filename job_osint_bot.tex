@@ -7,6 +7,8 @@
 \usepackage[table]{xcolor}
 \usepackage{array}
 \usepackage{graphicx}
+\usepackage{qrcode}
+
 \raggedbottom
 
 \usepackage[english]{babel}  % Подключение для автоматического переноса слов
@@ -360,23 +362,34 @@
     
         % Background wavy lines (optional decoration)
         \foreach \x in {0,...,15} {
-            \draw[opacity=0.2, thin, blue!50] (\x,-0.5) -- (\x-2,9);
+            \draw[opacity=0.2, thin, blue!50] (\x,0) -- (\x-2,9);
         }
     
-        % Text block centered on the slide (16:9 aspect ratio)
-        % Placing each line of text in its own node for better vertical spacing control
-        \node[align=center] at ([yshift=2cm]current page.center) {
+        % Текст в верхней части слайда, отцентрированный
+        \node[align=center] at ([yshift=4cm]current page.center) {
             \textbf{\textcolor{orange}{\LARGE JOBOSINT BOT}}
         };
-        \node[align=center] at ([yshift=1cm]current page.center) {
+        \node[align=center] at ([yshift=3cm]current page.center) {
             \textbf{\textcolor{gray}{\LARGE INVITES INVESTORS TO JOIN US}}
         };
-        \node[align=center] at (current page.center) {
+        \node[align=center] at ([yshift=2cm]current page.center) {
             \textbf{\textcolor{gray}{\LARGE IN INNOVATING THE DIGITAL WORLD}}
         };
-    
-    \end{tikzpicture}
-    
-    \end{frame}
 
+        % Внешняя рамка визитки
+        \draw[rounded corners=10pt, thick] 
+            ([yshift=1cm,xshift=-3cm]current page.south) rectangle ([yshift=5.2cm,xshift=3cm]current page.south);
+
+        % Текст внутри визитки
+        \node[align=center, font=\sffamily] at ([yshift=4.7cm,xshift=0cm]current page.south) {\textbf{CEO | Yuriy Galych}};
+        \node[align=center, font=\sffamily] at ([yshift=4.2cm,xshift=0cm]current page.south) {JobOsintBot@proton.me};
+
+        % Место для QR-кода, размещенное снизу
+        %\draw[thick] ([yshift=2cm,xshift=1cm]current page.south) rectangle ([yshift=4cm,xshift=-1cm]current page.south);
+        \node at ([yshift=3cm,xshift=0cm]current page.south) {\qrcode{https://www.linkedin.com/in/yuriy-galych-428068182/}};
+        
+
+    \end{tikzpicture}
+
+\end{frame}
 \end{document}

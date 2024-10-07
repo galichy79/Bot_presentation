@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.10.4)  7 OCT 2024 23:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.10.4)  8 OCT 2024 01:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -813,16 +813,56 @@ Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
 \minrowclearance=\skip67
 \rownum=\count345
 )
+(/usr/share/texlive/texmf-dist/tex/latex/qrcode/qrcode.sty
+Package: qrcode 2015/01/08 v1.51 QR code generation
+
+(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks50
+\XKV@tempa@toks=\toks51
+)
+\XKV@depth=\count346
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+\c@qr@i=\count347
+\c@qr@j=\count348
+\qr@a=\count349
+\qr@b=\count350
+\qr@c=\count351
+\qr@for@depth=\count352
+\qr@for@maxdepth=\count353
+\qr@for@start=\count354
+\qr@for@end=\count355
+\qr@for@step=\count356
+\qr@newforcount=\count357
+\qr@newforcount=\count358
+\qr@desiredheight=\skip68
+\qr@modulesize=\skip69
+\qr@minipagewidth=\skip70
+\c@maski=\count359
+\c@maskj=\count360
+\c@totalones=\count361
+\c@penaltyi=\count362
+\c@penaltyii=\count363
+\c@penaltyiii=\count364
+\c@penaltyiv=\count365
+\c@qr@hexchars=\count366
+\qr@newforcount=\count367
+\c@qr@divisionsremaining=\count368
+)
 (/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
 Package: babel 2024/01/07 v24.1 The Babel package
-\babel@savecnt=\count346
+\babel@savecnt=\count369
 \U@D=\dimen309
 \l@unhyphenated=\language89
 
 (/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
 \bbl@readstream=\read3
 LaTeX Info: Redefining \textlatin on input line 3986.
-\bbl@dirlevel=\count347
+\bbl@dirlevel=\count370
 
 (/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf
 Language: english 2017/06/06 v3.3r English support from the babel system
@@ -839,34 +879,37 @@ Package babel Info: Importing font and identification data for english
 )
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\newline' on input line 16.
+(hyperref)                removing `\newline' on input line 18.
 
 (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count348
+\l__color_backend_stack_int=\count371
 \l__pdf_internal_box=\box85
 )
-(./job_osint_bot.aux)
+(./job_osint_bot.aux
+<Reading QR code for "https://www.linkedin.com/in/yuriy-galych-428068182/" at l
+evel 4-M from aux file.>
+)
 \openout1 = `job_osint_bot.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 34.
+LaTeX Font Info:    ... okay on input line 34.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -904,17 +947,17 @@ LaTeX Font Info:    ... okay on input line 32.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count349
+\scratchcounter=\count372
 \scratchdimen=\dimen310
 \scratchbox=\box86
-\nofMPsegments=\count350
-\nofMParguments=\count351
-\everyMPshowfont=\toks50
-\MPscratchCnt=\count352
+\nofMPsegments=\count373
+\nofMParguments=\count374
+\everyMPshowfont=\toks52
+\MPscratchCnt=\count375
 \MPscratchDim=\dimen311
-\MPnumerator=\count353
-\makeMPintoPDFobject=\count354
-\everyMPtoPDFconversion=\toks51
+\MPnumerator=\count376
+\makeMPintoPDFobject=\count377
+\everyMPtoPDFconversion=\toks53
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 
@@ -932,64 +975,64 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package hyperref Info: Link coloring OFF on input line 32.
+Package hyperref Info: Link coloring OFF on input line 34.
 
 (./job_osint_bot.out) (./job_osint_bot.out)
 \@outlinefile=\write5
 \openout5 = `job_osint_bot.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 32.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 34.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 32.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 34.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 32.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 32.
+(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 34.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 34.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 32.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 34.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 32.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 32.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 34.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 34.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 32.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 34.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 32.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 32.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 34.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 34.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 32.
+(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 34.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 32.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 32.
+(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 34.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 34.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 32.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 34.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 32.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 34.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 32.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 34.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 32.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 34.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/b/n --> OT1/cmr/b/n on input line 32.
+(Font)                  OT1/cmss/b/n --> OT1/cmr/b/n on input line 34.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmss/b/n --> OT1/cmss/b/n on input line 32.
+(Font)                  OT1/cmss/b/n --> OT1/cmss/b/n on input line 34.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 32.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 34.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 32.
+(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 34.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/b/n on input line 32.
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 32.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/b/n on input line 34.
+LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 34.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
 (Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 3
-2.
+4.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/cmss/b/it --> OT1/mathkerncmss/m/sl on input line 3
-2.
+4.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on inp
-ut line 32.
+ut line 34.
 
 (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-basic-dictionary
 -English.dict
@@ -1018,56 +1061,56 @@ Dictionary: translator-theorem-dictionary, Language: English
 <logo.png, id=53, 1027.84pt x 1027.84pt>
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 39.
+Package pdftex.def Info: logo.png  used on input line 41.
 (pdftex.def)             Requested size: 42.67494pt x 42.67912pt.
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 39.
+Package pdftex.def Info: logo.png  used on input line 41.
 (pdftex.def)             Requested size: 28.44997pt x 28.45274pt.
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./logo.png (PNG copy)>]
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 57.
+Package pdftex.def Info: logo.png  used on input line 59.
 (pdftex.def)             Requested size: 28.44997pt x 28.45274pt.
  [2
 
 ]
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 71.
+Package pdftex.def Info: logo.png  used on input line 73.
 (pdftex.def)             Requested size: 28.44997pt x 28.45274pt.
  [3
 
 ]
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 86.
+Package pdftex.def Info: logo.png  used on input line 88.
 (pdftex.def)             Requested size: 28.44997pt x 28.45274pt.
  [4
 
 ]
 LaTeX Font Info:    Trying to load font information for TS1+cmss on input line 
-137.
+139.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmss.fd
 File: ts1cmss.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
-LaTeX Font Info:    Trying to load font information for U+msa on input line 137
+LaTeX Font Info:    Trying to load font information for U+msa on input line 139
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 137
+LaTeX Font Info:    Trying to load font information for U+msb on input line 139
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on inp
-ut line 137.
+ut line 139.
 
 (/usr/share/texlive/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/ma
@@ -1075,7 +1118,7 @@ thkerncmss.
 )
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 137.
+Package pdftex.def Info: logo.png  used on input line 139.
 (pdftex.def)             Requested size: 28.44997pt x 28.45274pt.
 
 [5
@@ -1083,14 +1126,14 @@ Package pdftex.def Info: logo.png  used on input line 137.
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 164.
+Package pdftex.def Info: logo.png  used on input line 166.
 (pdftex.def)             Requested size: 28.44997pt x 28.45274pt.
  [6
 
 ]
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 188.
+Package pdftex.def Info: logo.png  used on input line 190.
 (pdftex.def)             Requested size: 28.44997pt x 28.45274pt.
  [7
 
@@ -1098,21 +1141,21 @@ Package pdftex.def Info: logo.png  used on input line 188.
 <1.png, id=302, 1027.84pt x 1027.84pt>
 File: 1.png Graphic file (type png)
 <use 1.png>
-Package pdftex.def Info: 1.png  used on input line 230.
+Package pdftex.def Info: 1.png  used on input line 232.
 (pdftex.def)             Requested size: 56.9055pt x 56.89993pt.
 <gads.png, id=303, 1027.84pt x 1027.84pt>
 File: gads.png Graphic file (type png)
 <use gads.png>
-Package pdftex.def Info: gads.png  used on input line 230.
+Package pdftex.def Info: gads.png  used on input line 232.
 (pdftex.def)             Requested size: 56.9055pt x 56.89993pt.
 <social.png, id=304, 1027.84pt x 1027.84pt>
 File: social.png Graphic file (type png)
 <use social.png>
-Package pdftex.def Info: social.png  used on input line 230.
+Package pdftex.def Info: social.png  used on input line 232.
 (pdftex.def)             Requested size: 56.9055pt x 56.89993pt.
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 230.
+Package pdftex.def Info: logo.png  used on input line 232.
 (pdftex.def)             Requested size: 28.44997pt x 28.45274pt.
 
 [8
@@ -1120,7 +1163,7 @@ Package pdftex.def Info: logo.png  used on input line 230.
  <./1.png (PNG copy)> <./gads.png (PNG copy)> <./social.png (PNG copy)>]
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 273.
+Package pdftex.def Info: logo.png  used on input line 275.
 (pdftex.def)             Requested size: 28.44997pt x 28.45274pt.
 
 [9
@@ -1128,16 +1171,23 @@ Package pdftex.def Info: logo.png  used on input line 273.
 ]
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 354.
+Package pdftex.def Info: logo.png  used on input line 356.
 (pdftex.def)             Requested size: 28.44997pt x 28.45274pt.
  [10
 
 ]
+
+
+<QR code requested for "https://www.linkedin.com/in/yuriy-galych-428068182/" in
+ version 0-M.>
+
+<Copying the QR code for "https://www.linkedin.com/in/yuriy-galych-428068182/" 
+in version 4-M as previously calculated.>
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 380.
+Package pdftex.def Info: logo.png  used on input line 394.
 (pdftex.def)             Requested size: 28.44997pt x 28.45274pt.
- [11
+[11
 
 ]
 \tf@nav=\write6
@@ -1149,7 +1199,10 @@ Package pdftex.def Info: logo.png  used on input line 380.
 \tf@snm=\write8
 \openout8 = `job_osint_bot.snm'.
 
- (./job_osint_bot.aux)
+ (./job_osint_bot.aux
+<Reading QR code for "https://www.linkedin.com/in/yuriy-galych-428068182/" at l
+evel 4-M from aux file.>
+)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
@@ -1158,13 +1211,13 @@ Package rerunfilecheck Info: File `job_osint_bot.out' has not changed.
 (rerunfilecheck)             Checksum: 78F12BA4254E0089357C4E060FB1C330;2212.
  ) 
 Here is how much of TeX's memory you used:
- 26830 strings out of 474222
- 535593 string characters out of 5748733
- 1942975 words of memory out of 5000000
- 48505 multiletter control sequences out of 15000+600000
+ 28494 strings out of 474222
+ 559043 string characters out of 5748733
+ 2005975 words of memory out of 5000000
+ 50155 multiletter control sequences out of 15000+600000
  567564 words of font info for 69 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,14n,123p,496b,1074s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 128i,14n,123p,1278b,1074s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texli
@@ -1172,10 +1225,10 @@ ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/t
 exmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texmf/fonts/typ
 e1/public/cm-super/sfss1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/s
 fsx1095.pfb>
-Output written on job_osint_bot.pdf (11 pages, 2548357 bytes).
+Output written on job_osint_bot.pdf (11 pages, 2551665 bytes).
 PDF statistics:
- 449 PDF objects out of 1000 (max. 8388607)
- 376 compressed objects within 4 object streams
+ 450 PDF objects out of 1000 (max. 8388607)
+ 377 compressed objects within 4 object streams
  33 named destinations out of 1000 (max. 500000)
  335 words of extra memory for PDF output out of 10000 (max. 10000000)
 
