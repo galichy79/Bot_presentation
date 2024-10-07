@@ -1,11 +1,13 @@
-\documentclass{beamer}
+\documentclass[aspectratio=169]{beamer}
 \usetheme{Madrid}
 \usepackage{pifont}  % Подключаем пакет для использования \ding
 \usepackage{tikz}
+\usetikzlibrary{shapes.geometric, positioning}
 \usetikzlibrary{backgrounds}
 \usepackage[table]{xcolor}
 \usepackage{array}
 \usepackage{graphicx}
+\raggedbottom
 
 \usepackage[english]{babel}  % Подключение для автоматического переноса слов
 \logo{\includegraphics[height=1cm]{logo.png}} % Логотип
@@ -27,11 +29,6 @@
     \end{beamercolorbox}}%
   \vskip0pt%
 }
-
-
-
-
-
 \begin{document}
 % Титульный слайд
 \begin{frame}
@@ -40,7 +37,6 @@
     \vspace{1cm}
     \titlepage
 \end{frame}
-
 
 \section{Our people may be working for the enemy without even realizing it}
 
@@ -140,7 +136,6 @@
 
 \end{frame}
 
-
 \section{How do we make money}
 
 \begin{frame}
@@ -166,8 +161,6 @@
         };
     \end{tikzpicture}
     
-    
-   
 \end{frame}
 
 \section{Competition}
@@ -201,43 +194,39 @@
 
     \begin{tikzpicture}
          
-  % Первая карточка
-  \draw[rounded corners, thick] (0, 0) rectangle (3, -6);
+    % Первая карточка
+    \draw[rounded corners, thick] (0, 0) rectangle (3, -6);
     
-  % Вставляем изображение с сдвигом на 1 см вверх
-  \node[align=center] at (1.5, -1) {\includegraphics[width=2cm]{1.png}};  % Сдвиг изображения
+    % Вставляем изображение с сдвигом на 1 см вверх
+    \node[align=center] at (1.5, -1) {\includegraphics[width=2cm]{1.png}};  % Сдвиг изображения
 
-  % Текстовые элементы
-  \node[align=center] at (1.5, -3) {\textbf{Initial User}\\\textbf{Acquisition}};
-  \node[align=center] at (1.5, -5) {Attract our first \\ adoptive users via \\ LinkedIn \\
-  Freelancer.com};
+    % Текстовые элементы
+    \node[align=center] at (1.5, -3) {\textbf{Initial User}\\\textbf{Acquisition}};
+    \node[align=center] at (1.5, -5) {Attract our first \\ adoptive users via \\ LinkedIn \\
+    Freelancer.com};
 
-  % Вторая карточка
-  \draw[rounded corners, thick] (4, 0) rectangle (7, -6);  % Сдвигаем карточку вправо
+    % Вторая карточка
+    \draw[rounded corners, thick] (4, 0) rectangle (7, -6);  % Сдвигаем карточку вправо
   
-  % Вставляем изображение с сдвигом на 1 см вверх
-  \node[align=center] at (5.5, -1) {\includegraphics[width=2cm]{gads.png}};  % Сдвиг изображения
+    % Вставляем изображение с сдвигом на 1 см вверх
+    \node[align=center] at (5.5, -1) {\includegraphics[width=2cm]{gads.png}};  % Сдвиг изображения
 
-  % Текстовые элементы
-  \node[align=center] at (5.5, -3) {\textbf{Google Ads}\\\textbf{Campaigns}};
-  \node[align=center] at (5.5, -5) {Target traffic \\ via Google Ads}; 
+    % Текстовые элементы
+    \node[align=center] at (5.5, -3) {\textbf{Google Ads}\\\textbf{Campaigns}};
+    \node[align=center] at (5.5, -5) {Target traffic \\ via Google Ads}; 
 
-  % Третья карточка
-  \draw[rounded corners, thick] (8, 0) rectangle (11, -6);  % Сдвигаем карточку вправо
+    % Третья карточка
+    \draw[rounded corners, thick] (8, 0) rectangle (11, -6);  % Сдвигаем карточку вправо
   
-  % Вставляем изображение с сдвигом на 1 см вверх
-  \node[align=center] at (9.5, -1) {\includegraphics[width=2cm]{social.png}};  % Сдвиг изображения
+    % Вставляем изображение с сдвигом на 1 см вверх
+    \node[align=center] at (9.5, -1) {\includegraphics[width=2cm]{social.png}};  % Сдвиг изображения
 
-  % Текстовые элементы
-  \node[align=center] at (9.5, -3) {\textbf{Social Media}\\\textbf{Advertising}};
-  \node[align=center] at (9.5, -5) {Run ads on \\ Facebook \\and Instagram};
+    % Текстовые элементы
+    \node[align=center] at (9.5, -3) {\textbf{Social Media}\\\textbf{Advertising}};
+    \node[align=center] at (9.5, -5) {Run ads on \\ Facebook \\and Instagram};
 
     \end{tikzpicture}
 
-   
-    
-    
-    
 \end{frame}
 
 \section{Our team}
@@ -283,21 +272,86 @@
     
 \end{frame}
 
-
-
-
-
 \section{Money raising}
 
 \begin{frame}
     \frametitle{Money raising}
+   
     
-    \begin{block}{Money raising}
-        \begin{itemize}
-            \item Strategy 1
-            \item Strategy 2
-        \end{itemize}
-    \end{block}
+    
+        \begin{tikzpicture}
+            % Цвета
+            \definecolor{orange}{RGB}{255,138,61}
+            \definecolor{black}{RGB}{0,0,0}
+            
+            % Текст
+            \node[align=left] at (0,0) {
+                \textbf{\textcolor{orange}{\$250K}} \textbf{for the next \textcolor{orange}{18 months} to advance technology and boost}  \textbf{marketing efforts}
+            };
+            
+        \end{tikzpicture}
+
+        \begin{tikzpicture}
+    
+            % Определение стиля для карточек с уменьшенными размерами
+            \tikzstyle{card} = [rectangle, draw=black, thick, rounded corners, 
+                                minimum width=2.5cm, minimum height=2.5cm, 
+                                align=center, text width=2.5cm, font=\bfseries]
+            
+            % Первая карточка
+            \node[card] (card1) at (-6,0) {\textbf{Ready MVP} \\ first \\ adoptive \\ users};
+            
+            % Вторая карточка
+            \node[card] (card2) at (-3,0) {Implement \\ marketing \\ strategy};
+            
+            % Третья карточка
+            \node[card] (card3) at (0,0) {Adding...};
+            
+            % Четвёртая карточка
+            \node[card] (card4) at (3,0) {Get more space \\ in server};
+            
+            % Пятая карточка
+            \node[card] (card5) at (6,0) {Get own servers, \\ add new \\ functionality};
+        
+        \end{tikzpicture}
+
+
+        \begin{tikzpicture}
+    
+            % Цвет
+            \definecolor{orange}{RGB}{255,138,61}
+            
+            % Линия времени
+            \draw[thick] (-7,-2) -- (7,-2); % Линия от -7 до 7
+            
+            % Черные круги на линии времени, выровненные напротив карточек
+            \filldraw[black] (-6,-2) circle (6pt); 
+            \filldraw[black] (-3,-2) circle (6pt);
+            \filldraw[black] (0,-2) circle (6pt);
+            \filldraw[black] (3,-2) circle (6pt);
+            \filldraw[black] (6,-2) circle (6pt);
+            
+            % Подписи под кругами
+            \node at (-6,-2.5) {\textbf{2024}};
+            \node at (-3,-2.5) {\textbf{2024}};
+            \node at (0,-2.5) {\textbf{2025}};
+            \node at (3,-2.5) {\textbf{2025}};
+            \node at (6,-2.5) {\textbf{2027}};
+            
+            % Текст с чередованием цветов, размещенный ниже
+            \node at (-6,-3.5) {\textbf{first \textcolor{orange}{1000} users}};
+            \node at (-3,-3.5) {\textbf{\textcolor{orange}{3000} users}};
+            \node at (0,-3.5) {\textbf{\textcolor{orange}{10K} users}};
+            \node at (3,-3.5) {\textbf{\textcolor{orange}{50K} users}};
+            \node at (6,-3.5) {\textbf{\textcolor{orange}{1.7M} users}}; 
+        
+        \end{tikzpicture}
+
+
+
+        
+        
+   
     
 \end{frame}
 
