@@ -347,26 +347,36 @@
         
         \end{tikzpicture}
 
-
-
-        
+      
         
    
     
 \end{frame}
 
 \section{JobOsint Bot invites investors to join us for peace in Ukraine and Europe}
-
 \begin{frame}
-    \frametitle{JobOsint Bot invites investors to join us for peace in Ukraine and Europe}
+
+    \begin{tikzpicture}[remember picture,overlay]
     
-    \begin{block}{Join us for peace in Ukraine and Europe}
-        \begin{itemize}
-            \item Reason 1
-            \item Reason 2
-        \end{itemize}
-    \end{block}
+        % Background wavy lines (optional decoration)
+        \foreach \x in {0,...,15} {
+            \draw[opacity=0.2, thin, blue!50] (\x,-0.5) -- (\x-2,9);
+        }
     
-\end{frame}
+        % Text block centered on the slide (16:9 aspect ratio)
+        % Placing each line of text in its own node for better vertical spacing control
+        \node[align=center] at ([yshift=2cm]current page.center) {
+            \textbf{\textcolor{orange}{\LARGE JOBOSINT BOT}}
+        };
+        \node[align=center] at ([yshift=1cm]current page.center) {
+            \textbf{\textcolor{gray}{\LARGE INVITES INVESTORS TO JOIN US}}
+        };
+        \node[align=center] at (current page.center) {
+            \textbf{\textcolor{gray}{\LARGE IN INNOVATING THE DIGITAL WORLD}}
+        };
+    
+    \end{tikzpicture}
+    
+    \end{frame}
 
 \end{document}

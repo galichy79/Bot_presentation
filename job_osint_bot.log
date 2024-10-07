@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.10.4)  7 OCT 2024 21:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.10.4)  7 OCT 2024 22:35
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1128,14 +1128,14 @@ Package pdftex.def Info: logo.png  used on input line 273.
 ]
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 356.
+Package pdftex.def Info: logo.png  used on input line 354.
 (pdftex.def)             Requested size: 28.44997pt x 28.45274pt.
  [10
 
 ]
 File: logo.png Graphic file (type png)
 <use logo.png>
-Package pdftex.def Info: logo.png  used on input line 370.
+Package pdftex.def Info: logo.png  used on input line 380.
 (pdftex.def)             Requested size: 28.44997pt x 28.45274pt.
  [11
 
@@ -1158,11 +1158,11 @@ Package rerunfilecheck Info: File `job_osint_bot.out' has not changed.
 (rerunfilecheck)             Checksum: 78F12BA4254E0089357C4E060FB1C330;2212.
  ) 
 Here is how much of TeX's memory you used:
- 26798 strings out of 474222
- 535036 string characters out of 5748733
+ 26830 strings out of 474222
+ 535593 string characters out of 5748733
  1942975 words of memory out of 5000000
- 48473 multiletter control sequences out of 15000+600000
- 567270 words of font info for 68 fonts, out of 8000000 for 9000
+ 48505 multiletter control sequences out of 15000+600000
+ 567564 words of font info for 69 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,14n,123p,496b,1074s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></us
@@ -1172,10 +1172,10 @@ ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/t
 exmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texmf/fonts/typ
 e1/public/cm-super/sfss1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/s
 fsx1095.pfb>
-Output written on job_osint_bot.pdf (11 pages, 2549015 bytes).
+Output written on job_osint_bot.pdf (11 pages, 2548151 bytes).
 PDF statistics:
- 461 PDF objects out of 1000 (max. 8388607)
- 382 compressed objects within 4 object streams
+ 449 PDF objects out of 1000 (max. 8388607)
+ 376 compressed objects within 4 object streams
  33 named destinations out of 1000 (max. 500000)
- 371 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 335 words of extra memory for PDF output out of 10000 (max. 10000000)
 
