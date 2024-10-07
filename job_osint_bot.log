@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.10.4)  7 OCT 2024 19:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2024.10.4)  7 OCT 2024 19:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**osint_bot_presentation.tex
-(./osint_bot_presentation.tex
+**job_osint_bot.tex
+(./job_osint_bot.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
 (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamer.cls
@@ -834,8 +834,8 @@ File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count348
 \l__pdf_internal_box=\box85
 )
-(./osint_bot_presentation.aux)
-\openout1 = `osint_bot_presentation.aux'.
+No file job_osint_bot.aux.
+\openout1 = `job_osint_bot.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
 LaTeX Font Info:    ... okay on input line 35.
@@ -855,7 +855,6 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 35.
 LaTeX Font Info:    ... okay on input line 35.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 35.
 LaTeX Font Info:    ... okay on input line 35.
-
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -921,10 +920,8 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 Package hyperref Info: Link coloring OFF on input line 35.
-
-(./osint_bot_presentation.out) (./osint_bot_presentation.out)
 \@outlinefile=\write5
-\openout5 = `osint_bot_presentation.out'.
+\openout5 = `job_osint_bot.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 35.
@@ -1002,8 +999,9 @@ Dictionary: translator-numbers-dictionary, Language: English
 (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-theorem-dictiona
 ry-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
-) (./osint_bot_presentation.nav)
-<logo.png, id=53, 1027.84pt x 1027.84pt>
+)
+No file job_osint_bot.nav.
+<logo.png, id=13, 1027.84pt x 1027.84pt>
 File: logo.png Graphic file (type png)
 <use logo.png>
 Package pdftex.def Info: logo.png  used on input line 42.
@@ -1012,14 +1010,15 @@ File: logo.png Graphic file (type png)
 <use logo.png>
 Package pdftex.def Info: logo.png  used on input line 42.
 (pdftex.def)             Requested size: 28.44997pt x 28.45274pt.
- [1
+[1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./logo.png (PNG copy)>]
 File: logo.png Graphic file (type png)
 <use logo.png>
 Package pdftex.def Info: logo.png  used on input line 61.
 (pdftex.def)             Requested size: 28.44997pt x 28.45274pt.
- [2
+
+[2
 
 ]
 File: logo.png Graphic file (type png)
@@ -1038,8 +1037,7 @@ Package pdftex.def Info: logo.png  used on input line 90.
 ]
 LaTeX Font Info:    Trying to load font information for TS1+cmss on input line 
 141.
-
-(/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmss.fd
+ (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmss.fd
 File: ts1cmss.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
 LaTeX Font Info:    Trying to load font information for U+msa on input line 141
@@ -1086,17 +1084,17 @@ Package pdftex.def Info: logo.png  used on input line 195.
  [7
 
 ]
-<1.png, id=302, 1027.84pt x 1027.84pt>
+<1.png, id=266, 1027.84pt x 1027.84pt>
 File: 1.png Graphic file (type png)
 <use 1.png>
 Package pdftex.def Info: 1.png  used on input line 241.
 (pdftex.def)             Requested size: 56.9055pt x 56.89993pt.
-<gads.png, id=303, 1027.84pt x 1027.84pt>
+<gads.png, id=267, 1027.84pt x 1027.84pt>
 File: gads.png Graphic file (type png)
 <use gads.png>
 Package pdftex.def Info: gads.png  used on input line 241.
 (pdftex.def)             Requested size: 56.9055pt x 56.89993pt.
-<social.png, id=304, 1027.84pt x 1027.84pt>
+<social.png, id=268, 1027.84pt x 1027.84pt>
 File: social.png Graphic file (type png)
 <use social.png>
 Package pdftex.def Info: social.png  used on input line 241.
@@ -1132,37 +1130,37 @@ Package pdftex.def Info: logo.png  used on input line 316.
 
 ]
 \tf@nav=\write6
-\openout6 = `osint_bot_presentation.nav'.
+\openout6 = `job_osint_bot.nav'.
 
 \tf@toc=\write7
-\openout7 = `osint_bot_presentation.toc'.
+\openout7 = `job_osint_bot.toc'.
 
 \tf@snm=\write8
-\openout8 = `osint_bot_presentation.snm'.
+\openout8 = `job_osint_bot.snm'.
 
- (./osint_bot_presentation.aux)
+ (./job_osint_bot.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
 
 
-Package rerunfilecheck Warning: File `osint_bot_presentation.out' has changed.
+Package rerunfilecheck Warning: File `job_osint_bot.out' has changed.
 (rerunfilecheck)                Rerun to get outlines right
 (rerunfilecheck)                or use package `bookmark'.
 
-Package rerunfilecheck Info: Checksums for `osint_bot_presentation.out':
-(rerunfilecheck)             Before: 37D750471F8053BBBB5983679C7B241D;2197
+Package rerunfilecheck Info: Checksums for `job_osint_bot.out':
+(rerunfilecheck)             Before: <no file>
 (rerunfilecheck)             After:  78F12BA4254E0089357C4E060FB1C330;2212.
  ) 
 Here is how much of TeX's memory you used:
- 26216 strings out of 474222
- 521178 string characters out of 5748733
+ 26137 strings out of 474222
+ 520158 string characters out of 5748733
  1939975 words of memory out of 5000000
- 47901 multiletter control sequences out of 15000+600000
+ 47830 multiletter control sequences out of 15000+600000
  567270 words of font info for 68 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,14n,123p,490b,1073s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 128i,14n,123p,405b,1073s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texli
@@ -1170,10 +1168,10 @@ ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/t
 exmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texmf/fonts/typ
 e1/public/cm-super/sfss1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/s
 fsx1095.pfb>
-Output written on osint_bot_presentation.pdf (11 pages, 2547063 bytes).
+Output written on job_osint_bot.pdf (11 pages, 2545532 bytes).
 PDF statistics:
- 473 PDF objects out of 1000 (max. 8388607)
- 388 compressed objects within 4 object streams
+ 442 PDF objects out of 1000 (max. 8388607)
+ 357 compressed objects within 4 object streams
  33 named destinations out of 1000 (max. 500000)
- 407 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 327 words of extra memory for PDF output out of 10000 (max. 10000000)
 
