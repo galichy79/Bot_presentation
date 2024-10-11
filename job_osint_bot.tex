@@ -386,12 +386,14 @@
         \node[align=center, font=\sffamily] at ([yshift=4.7cm,xshift=0cm]current page.south) {\textbf{CEO | Yuriy Galych}};
         \node[align=center, font=\sffamily] at ([yshift=4.2cm,xshift=0cm]current page.south) {JobOsintBot@proton.me};
 
-        % Место для QR-кода, размещенное снизу
-        %\draw[thick] ([yshift=2cm,xshift=1cm]current page.south) rectangle ([yshift=4cm,xshift=-1cm]current page.south);
+        % QR-код, размещенный снизу
         \node at ([yshift=3cm,xshift=0cm]current page.south) {\qrcode{https://www.linkedin.com/in/yuriy-galych-428068182/}};
-        
 
+        % Абсолютное позиционирование текста "Check employer" внизу слайда
+        \node[align=center] at ([yshift=0.5cm]current page.south) {\href{https://www.example.com}{\textcolor{blue}{\textbf{Check employer}}}};
+        
     \end{tikzpicture}
 
 \end{frame}
+
 \end{document}
